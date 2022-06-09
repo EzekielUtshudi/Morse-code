@@ -46,11 +46,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@ezekielutshudi](https://twitter.com/UtshudiEzekiel)
 - LinkedIn: [@ezekielutshudi](https://www.linkedin.com/in/ezekiel-utshudi-195782162/)
 
-👤 **Author2**
+👤 **Max The Stranger**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@maxthestranger](https://github.com/maxthestranger)
+- Twitter: [@maxthestranger](https://twitter.com/maxthestranger)
+- LinkedIn: [maxthestranger](https://linkedin.com/in/maxthestranger)
 
 ## 🤝 Contributing
 
